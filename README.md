@@ -2,6 +2,9 @@
 
 A Streamlit app that trains and compares Random Forest, Logistic Regression, and SVC using the supplied loan dataset.
 
+
+**Streamlit Web App:** https://loan-approval-prediction-aqbdgv3rqwbosif8ifpfud.streamlit.app/
+
 ## Run in VS Code
 1. Extract this folder and open it in VS Code.
 2. Make sure Python is installed.
